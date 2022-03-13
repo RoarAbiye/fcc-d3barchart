@@ -1,0 +1,13 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+svg {
+  background-color: rgba(50, 50, 70, .4);
+  /* color: rgba(70, 50, 50, .9); */
+  box-shadow:  5px 5px 25px rgba(0, 0, 0, .4);
+  border-radius: .6em;
+}
